@@ -1,0 +1,14 @@
+.auth_input {
+   border: 1px solid #cccccc; //цвет рамки
+   border-radius: 10px; //закругление углов (общее)
+   -webkit-border-radius: 10px; //закругление углов (Google Chrome)
+   -moz-border-radius: 10px; //закругление углов (FireFox)
+   -khtml-border-radius: 10px; //закругление углов (Safari)
+   background: #ffffff !important; // желательно прописывать, так как в Chrome при сохранных данных оно может быть желтым
+   outline: none; // удаляет обводку в браузерах хром(желтая) и сафари(синяя)
+   height: 24px; // высота на свое усмотрение
+
+   color: #cccccc; //цвет шрифта в обычном состоянии
+   font-size: 11px; // Размер шрифта
+   font-family: Tahoma; // Стиль шрифта
+}

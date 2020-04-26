@@ -1,0 +1,50 @@
+body
+{
+	background-size: 100%;
+	background-image:url('/fon.jpg');
+
+}
+
+.auto-style1
+{
+    width: 100%;
+    height: 100%;
+}
+
+.auto-style2
+{
+    width: 15%;
+}
+        
+.auto-style5
+{
+    width: 60%;
+
+}
+        
+.auto-style6
+{
+	height:100px;
+    width: 80px;
+}
+
+.auto-style7
+{
+    width: 100%;
+}
+
+.auto-style8
+{
+	height:100px;
+	width: 20%;
+    
+}
+.zag
+{
+    font-size:25px;
+    text-align:center;
+}
+.centr
+{
+text-align:center;
+}

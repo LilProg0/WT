@@ -1,0 +1,40 @@
+.font_header {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 35px;
+  color: #005e00;
+  text-align: center;
+}
+
+.post-detail, .post {
+  font-family: 'Arimo', sans-serif;
+}
+.post-detail {
+  width: 30%;
+  margin: 0 auto 10px;
+  text-align: center;
+  }
+.post-info {
+  color: #be9656;
+  font-style: italic;
+  position: relative;
+  display: block;
+  font-size: 23px;
+}
+.post-info:before {
+  content: "";
+  border-bottom: 1px solid #be9656;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  z-index: 0;
+}
+
+
+p {
+  font-size: 25px;
+  line-height: 1.7;
+  color: #005e00;
+}

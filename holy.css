@@ -1,0 +1,60 @@
+body {
+    background-image: url('/pic/concrete-texture_(13).jpg');
+    margin: 0;
+    color: white;
+}
+
+.header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    height: 200px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+.logo img {
+    height: 200px;
+}
+
+.headerText {
+    color: white;
+    text-align: center;
+}
+
+.content {
+    margin-top: 205px;
+    width: 100%;
+}
+
+.auth {
+    height: 200px;
+    width: 250px;
+    float: right;
+}
+
+.left_menu {
+    top: 205px;
+    position: fixed;
+    width: 150px;
+    background: lightgray;
+    padding: 15px;
+    color: black;
+    height: 1000px;
+}
+
+.list {
+    width: 100%;
+    color: darkblue;
+    font-size: 34px;
+}
+
+.list>tbody>th{
+    text-align: center;
+}
+
+.list>tbody>tr{
+    text-align: center;
+}
